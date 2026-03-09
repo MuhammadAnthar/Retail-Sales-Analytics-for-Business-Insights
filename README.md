@@ -5,4 +5,13 @@ Proyek ini merupakan studi kasus analisis performa penjualan retail menggunakan 
 
 Analisis difokuskan untuk memahami kategori mana yang menjadi pendorong profit, kategori mana yang memiliki sales tinggi namun margin lemah, serta bagaimana pola pembelian customer dapat diterjemahkan menjadi rekomendasi bisnis yang lebih strategis.
 
-Melalui kombinasi PostgreSQL, Python, dan Looker Studio, proyek ini bertujuan mengubah data transaksi menjadi insight yang relevan untuk mendukung pengambilan keputusan bisnis, khususnya dalam pengelolaan kategori produk, strategi positioning, dan peluang pertumbuhan customer.
+
+🎯 Tujuan
+
+Proyek ini bertujuan untuk:
+
+menganalisis performa penjualan dari waktu ke waktu,
+mengevaluasi profitabilitas antar kategori dan sub-category,
+membandingkan kontribusi customer segment dan region,
+memahami pengaruh discount terhadap profit,
+serta menghasilkan insight dan rekomendasi bisnis yang dapat ditindaklanjuti.
