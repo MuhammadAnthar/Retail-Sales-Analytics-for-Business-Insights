@@ -7,14 +7,14 @@ Analisis difokuskan untuk memahami kategori mana yang menjadi pendorong profit, 
 
 🎯 Tujuan
 
-Proyek ini bertujuan untuk:
+- Proyek ini bertujuan untuk:
 
-menganalisis performa penjualan dari waktu ke waktu,
+- menganalisis performa penjualan dari waktu ke waktu,
 
-mengevaluasi profitabilitas antar kategori dan sub-category,
+- mengevaluasi profitabilitas antar kategori dan sub-category,
 
-membandingkan kontribusi customer segment dan region,
+- membandingkan kontribusi customer segment dan region,
 
-memahami pengaruh discount terhadap profit,
+- memahami pengaruh discount terhadap profit,
 
-serta menghasilkan insight dan rekomendasi bisnis yang dapat ditindaklanjuti.
+- serta menghasilkan insight dan rekomendasi bisnis yang dapat ditindaklanjuti.
