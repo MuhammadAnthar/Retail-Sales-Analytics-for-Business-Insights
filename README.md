@@ -6,15 +6,10 @@ Proyek ini merupakan studi kasus analisis performa penjualan retail menggunakan 
 Analisis difokuskan untuk memahami kategori mana yang menjadi pendorong profit, kategori mana yang memiliki sales tinggi namun margin lemah, serta bagaimana pola pembelian customer dapat diterjemahkan menjadi rekomendasi bisnis yang lebih strategis.
 
 🎯 Tujuan
-
-- Proyek ini bertujuan untuk:
+Proyek ini bertujuan untuk:
 
 - menganalisis performa penjualan dari waktu ke waktu,
-
 - mengevaluasi profitabilitas antar kategori dan sub-category,
-
 - membandingkan kontribusi customer segment dan region,
-
 - memahami pengaruh discount terhadap profit,
-
 - serta menghasilkan insight dan rekomendasi bisnis yang dapat ditindaklanjuti.
